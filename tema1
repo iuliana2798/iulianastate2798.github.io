@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    Lista cu numele colegilor
+</head>
+<body>
+<UL TYPE=circle>Lista cu numele colegilor este:
+    <LI> <a href="https://github.com/timeacapatina">Timea Capatina</a>
+    <LI><a href="https://github.com/adrianastoica">Adriana Stoica</a>
+    <LI><a href="https://github.com/ClaudiaR97">Claudia Rosu</a>
+    <LI><a href="https://gist.github.com/Br…/7d04b994153470dbdbe0d83545ce5077">Bruma Dan</a>
+    <LI><a href="https://github.com/andreanica">Andrea Nica</a>
+    <LI><a href="https://laviniaparvan.github.io/">Lavinia Parvan</a>
+    <LI><a href="https://aexandraioana1707.github.io">Alexandra Ioana</a>
+    <LI><a href="https://andradaxn.github.io">Andrada Raluca</a>
+    <LI><a href="https://github.com/AlinChirita">Alin Chirita</a>
+    <LI><a href="https://github.com/naomialbu/naomialbu.github.io">Naomi Albu</a>
+    <LI><a href="https://github.com/KisBrigitta">Brigita Kis</a>
+    <LI><a href="https://stefaniasasaeac.github.io">Sasaeac Stefania</a>
+    <LI><a href="https://github.com/ValentinaDavid">Valentina David</a>
+    <LI><a href="https://github.com/CatalinBonciu">Catalin Bonciu</a>
+    <LI><a href="https://github.com/AncaMunteanu272">Anca Munteanu</a>
+</UL>
+</body>
+</html>
